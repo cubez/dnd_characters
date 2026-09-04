@@ -14,6 +14,7 @@
 |---|---|
 | What do I do in combat? | [Combat Cheat Sheet](combat.md) |
 | What are my numbers? | [Character Snapshot](stats.md) |
+| How much gold do I have? | [Gold & Expenses](stats.md#gold--expenses) |
 | How do my abilities and items work? | [Ability & Item Reference](abilities.md) |
 | Quick glance at everything? | [Quick Reference](quick-reference.md) |
 | What about out of combat? | [Out of Combat & Flavor](flavor.md) |

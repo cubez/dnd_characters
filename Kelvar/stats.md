@@ -178,6 +178,22 @@
 
 ---
 
+## Gold & Expenses
+
+**Current balance:** *(not yet recorded — fill in from the official sheet)*
+
+### Expense Log
+
+| Session | Item | Cost | Notes |
+|---|---|:---:|---|
+| Current | Giant Ball Smasher | 15gp | Giant-lands liquor, 75% alcohol. Social lever, not a potion |
+| Current | Food | 10gp | Provisions |
+| | **Session total** | **25gp** | |
+
+**How to use this:** add a row for every purchase, update the balance, and keep the session total running until the next long downtime. Costs here are what was actually paid at the table, not list price.
+
+---
+
 ## Defenses
 
 - **AC 17** (Studded Leather +1)
