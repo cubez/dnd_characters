@@ -88,11 +88,13 @@
 | **Common** | Origin (standard) |
 | **Elvish** | Free choice (High Elf) |
 | **Thieves' Cant** | Rogue level 1 |
-| *(open slot)* | Second free choice — Draconic and Undercommon fit the scroll-collector concept |
+| **Undercommon** | Second free choice — trade tongue of the Underdark |
 
 **Thieves' Cant:** A secret mix of dialect, jargon, and code that lets me hide messages in seemingly normal conversation. Only creatures who know Thieves' Cant understand it. Perfect for the ex-crime lord — if there are underworld figures in the scene, this is my opening.
 
-**Note:** Verify against the official character sheet. The 2024 rules grant Common plus two languages of your choice from your origin; Thieves' Cant comes on top of those from the Rogue class.
+**Undercommon:** The trade tongue of the Underdark — drow, duergar, svirfneblin, and every black market that runs beneath a city. For a retired crime lord, this is the language of illicit magic-item deals. Pairs with Thieves' Cant: one gets me into the underworld, the other proves I belong there.
+
+**Note:** Verify against the official character sheet. The 2024 rules grant Common plus two languages of your choice from your origin; Thieves' Cant comes on top of those from the Rogue class. Undercommon is a **rare** language, so it normally needs DM approval rather than being a free origin pick.
 
 ---
 
