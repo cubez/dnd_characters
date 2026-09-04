@@ -29,6 +29,12 @@
 
 ## My Turn
 
+### Owl (acts on its own initiative)
+
+- **Help** next to my target → **advantage on my attack** → Sneak Attack
+- **Flyby** — leaves melee without an opportunity attack
+- Scout with darkvision 120ft; I can see through its eyes with a Magic action
+
 ### Bonus Action (pick one)
 
 - **Fast Hands: Scroll** — activate a scroll as BA (True Strike = free advantage)

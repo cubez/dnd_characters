@@ -238,6 +238,41 @@
 
 ---
 
+## Familiar
+
+### The Owl (Fey)
+
+**Find Familiar scroll** | 1 hour ritual | Permanent until dropped to 0 HP or dismissed
+
+**Form:** Owl. **Spirit type:** Fey — fitting for a High Elf with Fey Ancestry.
+
+**What makes the owl the right pick:**
+
+| Trait | Why it matters |
+|---|---|
+| **Flyby** | No opportunity attack when it leaves melee. The only familiar option with this. It dives in, Helps, and leaves clean. |
+| **Fly 60ft** | Crosses the battlefield and back in one turn. |
+| **Darkvision 120ft** | Sees twice as far in the dark as I do. |
+| **Very low HP** | One hit kills it. Keep it out of area damage. |
+
+**The combo — this is why I cast it:**
+
+> 1. Owl flies adjacent to my target (it rolls its own Initiative and acts on its own turn)
+> 2. Owl takes the **Help** action — it must be **within 5ft of the target**
+> 3. My next attack roll has **advantage** → **Sneak Attack 7d6**
+> 4. Owl flies out with Flyby, no opportunity attack
+
+**What this changes:** advantage every round with no setup. I no longer need to Hide for Sneak Attack, and I no longer need True Strike scrolls. **My bonus action is permanently free** for Fast Hands, Thieves' Tools, or repositioning.
+
+**Other uses:**
+- **Scouting** — I take a Magic action to see through its eyes and use its senses. It flies ahead in the dark while I stay safe.
+- **Delivering touch spells** — it can carry a touch-range spell to a target for me.
+- **Watch** — 120ft darkvision on overwatch during rests.
+
+**Reminder:** It can take any action *except* the Attack action. If it drops to 0 HP it vanishes, and bringing it back costs another hour and 10gp of components — so do not fly it into a fireball to save a round.
+
+---
+
 ## Magic Items
 
 ### Ring of Spell Storing

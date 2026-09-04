@@ -10,6 +10,7 @@
 - [ ] **What scrolls do I have?** 10 in stock — Blink (defence), Invisibility (advantage), Confusion (crowd control), Protection from Poison (my +2 CON save)
 - [ ] **Ring of Spell Storing loaded?** Shield, Absorb Elements, Invisibility, Feather Fall
 - [ ] **Cloak of Elvenkind on?** Advantage on Stealth, disadvantage to spot me
+- [ ] **Owl in position?** Fly it toward the target — its Help is my advantage, and its Flyby gets it out safely
 - [ ] **Dust of Disappearance available?** Save for emergencies
 
 ---
@@ -32,6 +33,7 @@
 
 | Situation | Bonus Action | Action | Reaction |
 |---|---|---|---|
+| **Owl can reach the target** | Use an item (BA is free now) | Attack with advantage from owl's Help → SA | Uncanny Dodge / Shield |
 | Ally within 5ft of target | Hide or use item | Attack → SA (advantage not needed) | Uncanny Dodge / Shield |
 | Can Hide for advantage | Hide (Cunning Action) | Attack with advantage → SA | Uncanny Dodge / Shield |
 | Have Vex from last turn | Hide or use item | Attack with Vex advantage → SA | Uncanny Dodge / Shield |
