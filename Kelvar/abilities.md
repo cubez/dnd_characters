@@ -341,6 +341,110 @@
 | 8th | 18 | 25 | Auto-success |
 | 9th | 19 | 25 | Auto-success |
 
+### Current Scroll Inventory (10)
+
+*All of these are auto-successes. My minimum Arcana result is 25; the highest DC here is 15.*
+
+| Scroll | Level | Casting Time | Priority |
+|---|:---:|---|:---:|
+| **Find Familiar** | 1st | 1 hour (ritual) | **S** |
+| **Blink** | 3rd | Action | **A** |
+| **Invisibility** | 2nd | Action | **A** |
+| **Confusion** | 4th | Action | **A** |
+| **Protection from Poison** | 2nd | Action | **B** |
+| **Divination** | 4th | Action (ritual) | **B** |
+| **Conjure Minor Elementals** | 4th | See note | **C** |
+| **Purify Food and Drink** | 1st | Action (ritual) | **C** |
+| **Dream** | 5th | 1 minute | **C** |
+| **Planar Binding** | 5th | 1 hour | **C** |
+
+---
+
+#### Find Familiar — cast this one first
+
+**1st level** | 1 hour ritual | Out of combat only | 10gp components
+
+**When I use this:** During the next long rest. This is not a combat scroll — it is a permanent upgrade to my whole engine.
+
+**What this does:** Summons a familiar. Take an **owl** — it flies, it has Flyby (no opportunity attacks), and it can take the **Help** action next to a target.
+
+**If I use this:** The familiar Helps → I have advantage → **Sneak Attack every single round**, without Hiding and without burning a True Strike scroll. That frees my bonus action permanently for items, Thieves' Tools, or repositioning.
+
+**Reminder:** The familiar is fragile (1 HP). Keep it out of area damage. Ask the DM whether the scroll covers the 10gp material component.
+
+---
+
+#### Blink — my best defensive scroll
+
+**3rd level** | Action | 1 minute | No concentration
+
+**When I use this:** A fight I expect to lose, or when I am the target and my reaction is already spent.
+
+**What this does:** At the end of each of my turns, roll a d6. On a 4–5 I vanish to the Ethereal Plane until the start of my next turn — I cannot be attacked or targeted at all.
+
+**If I use this:** Roughly a third of enemy turns simply do not happen to me. No concentration, so it stacks with everything.
+
+---
+
+#### Invisibility — a second charge
+
+**2nd level** | Action | Concentration, 1 hour
+
+**When I use this:** When the Ring's charge is already spent, or when I want to save the Ring.
+
+**What this does:** Invisible until I attack or cast. Attacking from unseen gives me **advantage** — that is a guaranteed Sneak Attack on the way out.
+
+**Reminder:** Breaks on attack, unlike Dust of Disappearance. Different tool, same drawer.
+
+---
+
+#### Confusion — my only real crowd control
+
+**4th level** | Action | Concentration, 1 minute | WIS save
+
+**When I use this:** Three or more enemies clustered, or one dangerous melee brute I want taken off the board.
+
+**What this does:** 10ft radius. Creatures that fail a WIS save act randomly — many of them do nothing or wander off. They re-save at the end of each of their turns.
+
+**Reminder:** The save DC comes from the **scroll**, not from me (typically DC 15 at this level — confirm with the DM). This costs me my Action, so no Sneak Attack that turn. Worth it against a crowd, never against one target.
+
+---
+
+#### Protection from Poison — the answer to my worst save
+
+**2nd level** | Action | 1 hour | No concentration
+
+**When I use this:** Before anything involving poison, and before I ever drink something from the giant lands again.
+
+**What this does:** Neutralises one poison in the target and grants **advantage on saving throws against poison** plus **resistance to poison damage** for an hour.
+
+**If I use this:** My CON save is only +2 — my weakest link. This scroll patches exactly that hole for a whole hour.
+
+---
+
+#### Divination — the smartest-person-in-the-room scroll
+
+**4th level** | Action (ritual) | 25gp incense
+
+**When I use this:** Before a heist, when the party is genuinely stuck and the DM's answer would change the plan.
+
+**What this does:** One question about a goal, event, or activity within 7 days. I get a truthful reply — usually cryptic.
+
+**Reminder:** Ask a question about *the best course of action*, not a yes/no. Confirm the incense cost with the DM.
+
+---
+
+#### The Situational Four
+
+| Scroll | What it's for |
+|---|---|
+| **Conjure Minor Elementals** (4th) | Damage/summon. The 2014 and 2024 versions differ sharply — 2014 summons elementals over 1 minute, 2024 is an action for a damaging aura around me. **Ask the DM which version applies.** Either way it wants me near enemies, which is not where a shortbow rogue lives. |
+| **Purify Food and Drink** (1st) | Removes poison and disease from food and drink. Cheap insurance at a suspicious table — and mildly funny given recent events. |
+| **Dream** (5th) | 1 minute cast. Send a message through a sleeping creature's dreams, or terrorise them into losing a rest. A plot and intimidation tool, not a combat one. |
+| **Planar Binding** (5th) | 1 hour cast, needs an already-restrained celestial/elemental/fey/fiend, and a **1,000gp jewel**. Pure downtime leverage. Do not sell it — it is a campaign-changer if the right creature ever gets tied up. |
+
+---
+
 ### Priority Scrolls to Carry
 
 - **True Strike** (cantrip) — BA via Fast Hands, advantage on next attack, INT-based

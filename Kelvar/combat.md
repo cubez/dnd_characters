@@ -7,7 +7,7 @@
 ## Before Combat
 
 - [ ] **Am I hidden?** Get into a hidden position before initiative if possible
-- [ ] **What scrolls do I have?** Check scroll inventory — especially True Strike
+- [ ] **What scrolls do I have?** 10 in stock — Blink (defence), Invisibility (advantage), Confusion (crowd control), Protection from Poison (my +2 CON save)
 - [ ] **Ring of Spell Storing loaded?** Shield, Absorb Elements, Invisibility, Feather Fall
 - [ ] **Cloak of Elvenkind on?** Advantage on Stealth, disadvantage to spot me
 - [ ] **Dust of Disappearance available?** Save for emergencies
@@ -172,7 +172,7 @@
 | Dust of Disappearance | 1 use | Consumable | 10ft area, 2d4 min, doesn't break on attack |
 | Misty Step | 1 | Long Rest | 30ft BA teleport |
 | Detect Magic | 1 | Long Rest | No concentration (racial) |
-| Scrolls | varies | Consumable | Check inventory before combat! |
+| Scrolls | 10 | Consumable | See [inventory](abilities.md#current-scroll-inventory-10). Combat-ready: Blink, Invisibility, Confusion, Protection from Poison |
 
 ---
 

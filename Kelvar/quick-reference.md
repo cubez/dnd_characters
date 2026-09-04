@@ -111,6 +111,7 @@
 | Dust of Disappearance | 1 | Consumable |
 | Giant Ball Smasher | 1 | Liquor, not magical — social tool |
 | Misty Step | 1 | Long Rest |
+| Scrolls | 10 | Consumable |
 | Detect Magic | 1 | Long Rest |
 
 ---
