@@ -180,15 +180,16 @@
 
 ## Gold & Expenses
 
-**Current balance:** *(not yet recorded — fill in from the official sheet)*
+**Current balance: 507gp** (532gp at session start, less 25gp spent)
 
 ### Expense Log
 
-| Session | Item | Cost | Notes |
-|---|---|:---:|---|
-| Current | Giant Ball Smasher | 15gp | Giant-lands liquor, 75% alcohol. Social lever, not a potion |
-| Current | Food | 10gp | Provisions |
-| | **Session total** | **25gp** | |
+| Session | Item | Cost | Balance |
+|---|---|:---:|:---:|
+| Current | *Starting balance* | — | 532gp |
+| Current | Giant Ball Smasher — giant-lands liquor, 75% alcohol | 15gp | 517gp |
+| Current | Food — provisions | 10gp | 507gp |
+| | **Session total spent** | **25gp** | **507gp** |
 
 **How to use this:** add a row for every purchase, update the balance, and keep the session total running until the next long downtime. Costs here are what was actually paid at the table, not list price.
 
