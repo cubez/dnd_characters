@@ -81,6 +81,21 @@
 
 ---
 
+## Languages
+
+| Language | Source |
+|---|---|
+| **Common** | Origin (standard) |
+| **Elvish** | Free choice (High Elf) |
+| **Thieves' Cant** | Rogue level 1 |
+| *(open slot)* | Second free choice — Draconic and Undercommon fit the scroll-collector concept |
+
+**Thieves' Cant:** A secret mix of dialect, jargon, and code that lets me hide messages in seemingly normal conversation. Only creatures who know Thieves' Cant understand it. Perfect for the ex-crime lord — if there are underworld figures in the scene, this is my opening.
+
+**Note:** Verify against the official character sheet. The 2024 rules grant Common plus two languages of your choice from your origin; Thieves' Cant comes on top of those from the Rogue class.
+
+---
+
 ## Attacks
 
 | Attack | To Hit | Damage | Notes |
