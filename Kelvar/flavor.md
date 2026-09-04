@@ -120,6 +120,8 @@
 
 **Fear:** Being unprepared. Walking into a room without a plan. Kelvar has a contingency for everything because the one time he didn't, someone died.
 
+**The night the bottle won:** Kelvar drank a Giant Ball Smasher, passed out, and woke up 94 gold lighter. Someone picked the pocket of a man with Sleight of Hand +14 and Passive Investigation 25 — because for one night he was not watching. He has not mentioned it to anyone. He intends to find them.
+
 **Bond:** The collection. Every magic item he carries has a story, a heist, a close call. They're not just tools — they're trophies.
 
 ---

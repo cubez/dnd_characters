@@ -180,7 +180,7 @@
 
 ## Gold & Expenses
 
-**Current balance: 507gp** (532gp at session start, less 25gp spent)
+**Current balance: 413gp** (532gp at session start, less 25gp spent and 94gp stolen)
 
 ### Expense Log
 
@@ -189,7 +189,8 @@
 | Current | *Starting balance* | — | 532gp |
 | Current | Giant Ball Smasher — giant-lands liquor, 75% alcohol | 15gp | 517gp |
 | Current | Food — provisions | 10gp | 507gp |
-| | **Session total spent** | **25gp** | **507gp** |
+| Current | **Stolen** — pickpocketed while drunk asleep | 94gp | 413gp |
+| | **Session total out** | **119gp** | **413gp** |
 
 **How to use this:** add a row for every purchase, update the balance, and keep the session total running until the next long downtime. Costs here are what was actually paid at the table, not list price.
 
