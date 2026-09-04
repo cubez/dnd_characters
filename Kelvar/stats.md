@@ -130,6 +130,7 @@
 | **Shortbow +1** | +1 to attack and damage, Vex mastery | No |
 | **Studded Leather +1** | AC 13 + DEX (17 total) | No |
 | **Dust of Disappearance** | 10ft area invisibility for 2d4 minutes — doesn't break on attack! | No |
+| **Giant Ball Smasher (potion)** | *Effect unknown — homebrew, ask the DM.* Bought for 15gp. | No |
 | **Charlatan's Dice** | Replicate any die result you've seen rolled | Yes |
 
 **Use Magic Device:** I ignore all class, race, and level requirements on magic items. I have **4 attunement slots** instead of 3.
@@ -172,6 +173,7 @@
 | Lucky Points | 3 | Long Rest |
 | Ring of Spell Storing | 5 levels (loaded) | Reload from caster |
 | Dust of Disappearance | 1 use | Consumable |
+| Giant Ball Smasher | 1 use | Consumable (effect TBD) |
 | Detect Magic | 1 | Long Rest |
 | Misty Step | 1 | Long Rest |
 
