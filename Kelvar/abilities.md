@@ -353,7 +353,7 @@
 | **Confusion** | 4th | Action | **A** |
 | **Protection from Poison** | 2nd | Action | **B** |
 | **Divination** | 4th | Action (ritual) | **B** |
-| **Conjure Minor Elementals** | 4th | See note | **C** |
+| **Conjure Minor Elementals** | 4th | Action | **C** |
 | **Purify Food and Drink** | 1st | Action (ritual) | **C** |
 | **Dream** | 5th | 1 minute | **C** |
 | **Planar Binding** | 5th | 1 hour | **C** |
@@ -382,7 +382,7 @@
 
 **What this does:** At the end of each of my turns, roll a d6. On a 4–5 I vanish to the Ethereal Plane until the start of my next turn — I cannot be attacked or targeted at all.
 
-**If I use this:** Roughly a third of enemy turns simply do not happen to me. No concentration, so it stacks with everything.
+**If I use this:** A large share of enemy turns simply do not happen to me. No concentration, so it stacks with everything. *(Check the exact die range in the 2024 PHB — the odds shifted between editions.)*
 
 ---
 
@@ -438,7 +438,7 @@
 
 | Scroll | What it's for |
 |---|---|
-| **Conjure Minor Elementals** (4th) | Damage/summon. The 2014 and 2024 versions differ sharply — 2014 summons elementals over 1 minute, 2024 is an action for a damaging aura around me. **Ask the DM which version applies.** Either way it wants me near enemies, which is not where a shortbow rogue lives. |
+| **Conjure Minor Elementals** (4th) | 2024 version: an Action, Concentration up to 10 minutes, elemental spirits swarm a **15ft Emanation** around me. My attacks deal **+2d8** (acid/cold/fire/lightning, my choice) against anything inside it. The catch: enemies have to be within 15ft of *me*, which is the opposite of where a shortbow rogue stands. Strong on a turn I am already surrounded, dead weight from 80ft away. |
 | **Purify Food and Drink** (1st) | Removes poison and disease from food and drink. Cheap insurance at a suspicious table — and mildly funny given recent events. |
 | **Dream** (5th) | 1 minute cast. Send a message through a sleeping creature's dreams, or terrorise them into losing a rest. A plot and intimidation tool, not a combat one. |
 | **Planar Binding** (5th) | 1 hour cast, needs an already-restrained celestial/elemental/fey/fiend, and a **1,000gp jewel**. Pure downtime leverage. Do not sell it — it is a campaign-changer if the right creature ever gets tied up. |
