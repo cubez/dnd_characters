@@ -240,11 +240,13 @@
 
 ## Familiar
 
-### The Owl (Fey)
+### The Barn Owl (Fey)
 
 **Find Familiar scroll** | 1 hour ritual | Permanent until dropped to 0 HP or dismissed
 
-**Form:** Owl. **Spirit type:** Fey — fitting for a High Elf with Fey Ancestry.
+**Form:** Owl — a **barn owl**, white heart-shaped face, utterly silent in flight. **Spirit type:** Fey, fitting for a High Elf with Fey Ancestry.
+
+*Not a pet. An arrangement with something old that has agreed, for now, to wear the shape of an owl.*
 
 **What makes the owl the right pick:**
 

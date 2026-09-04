@@ -29,6 +29,7 @@
 - **Eyes:** Elven, perceptive, constantly cataloguing the room
 - **Clothing:** Well-tailored dark clothing under a black silk cloak (Cloak of Elvenkind). Looks expensive because it is
 - **Accessory:** Silver toothpick with a diamond tip — fidgets with it when thinking
+- **Companion:** A barn owl — white, heart-shaped face, silent in flight. A fey spirit wearing a borrowed shape. It arrives without a sound and leaves before anyone decides how they feel about it
 - **Age:** Older for an adventurer, younger for an elf. Confident in a way that only comes from centuries of experience
 - **Impression:** Looks like a wealthy merchant who wandered into the wrong tavern. Except he didn't wander — he chose this tavern specifically.
 
