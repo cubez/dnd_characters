@@ -174,7 +174,8 @@
 | Dust of Disappearance | 1 use | Consumable | 10ft area, 2d4 min, doesn't break on attack |
 | Misty Step | 1 | Long Rest | 30ft BA teleport |
 | Detect Magic | 1 | Long Rest | No concentration (racial) |
-| Scrolls | 10 | Consumable | See [inventory](abilities.md#current-scroll-inventory-10). Combat-ready: Blink, Invisibility, Confusion, Protection from Poison |
+| Familiar | 1 | Permanent | Barn owl (fey). Help = advantage. Flyby. Re-summon costs 1 hour + 10gp |
+| Scrolls | 9 | Consumable | See [inventory](abilities.md#current-scroll-inventory-10). Combat-ready: Blink, Invisibility, Confusion, Protection from Poison |
 
 ---
 

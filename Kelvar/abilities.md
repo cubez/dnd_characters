@@ -242,7 +242,7 @@
 
 ### The Barn Owl (Fey)
 
-**Find Familiar scroll** | 1 hour ritual | Permanent until dropped to 0 HP or dismissed
+**Summoned** — scroll spent | Permanent until dropped to 0 HP or dismissed
 
 **Form:** Owl — a **barn owl**, white heart-shaped face, utterly silent in flight. **Spirit type:** Fey, fitting for a High Elf with Fey Ancestry.
 
@@ -378,13 +378,14 @@
 | 8th | 18 | 25 | Auto-success |
 | 9th | 19 | 25 | Auto-success |
 
-### Current Scroll Inventory (10)
+### Current Scroll Inventory (9)
 
 *All of these are auto-successes. My minimum Arcana result is 25; the highest DC here is 15.*
 
+*Find Familiar — **spent**. The barn owl is summoned and permanent; see [Familiar](#familiar) below.*
+
 | Scroll | Level | Casting Time | Priority |
 |---|:---:|---|:---:|
-| **Find Familiar** | 1st | 1 hour (ritual) | **S** |
 | **Blink** | 3rd | Action | **A** |
 | **Invisibility** | 2nd | Action | **A** |
 | **Confusion** | 4th | Action | **A** |
@@ -394,20 +395,6 @@
 | **Purify Food and Drink** | 1st | Action (ritual) | **C** |
 | **Dream** | 5th | 1 minute | **C** |
 | **Planar Binding** | 5th | 1 hour | **C** |
-
----
-
-#### Find Familiar — cast this one first
-
-**1st level** | 1 hour ritual | Out of combat only | 10gp components
-
-**When I use this:** During the next long rest. This is not a combat scroll — it is a permanent upgrade to my whole engine.
-
-**What this does:** Summons a familiar. Take an **owl** — it flies, it has Flyby (no opportunity attacks), and it can take the **Help** action next to a target.
-
-**If I use this:** The familiar Helps → I have advantage → **Sneak Attack every single round**, without Hiding and without burning a True Strike scroll. That frees my bonus action permanently for items, Thieves' Tools, or repositioning.
-
-**Reminder:** The familiar is fragile (1 HP). Keep it out of area damage. Ask the DM whether the scroll covers the 10gp material component.
 
 ---
 
