@@ -10,7 +10,7 @@
 - [ ] **What scrolls do I have?** 10 in stock — Blink (defence), Invisibility (advantage), Confusion (crowd control), Protection from Poison (my +2 CON save)
 - [ ] **Ring of Spell Storing loaded?** Shield, Absorb Elements, Invisibility, Feather Fall
 - [ ] **Cloak of Elvenkind on?** Advantage on Stealth, disadvantage to spot me
-- [ ] **Owl in position?** Fly it toward the target — its Help is my advantage, and its Flyby gets it out safely
+- [ ] **Belfry in position?** Fly it toward the target — its Help is my advantage, and its Flyby gets it out safely
 - [ ] **Dust of Disappearance available?** Save for emergencies
 
 ---
@@ -33,7 +33,7 @@
 
 | Situation | Bonus Action | Action | Reaction |
 |---|---|---|---|
-| **Owl can reach the target** | Use an item (BA is free now) | Attack with advantage from owl's Help → SA | Uncanny Dodge / Shield |
+| **Belfry can reach the target** | Use an item (BA is free now) | Attack with advantage from owl's Help → SA | Uncanny Dodge / Shield |
 | Ally within 5ft of target | Hide or use item | Attack → SA (advantage not needed) | Uncanny Dodge / Shield |
 | Can Hide for advantage | Hide (Cunning Action) | Attack with advantage → SA | Uncanny Dodge / Shield |
 | Have Vex from last turn | Hide or use item | Attack with Vex advantage → SA | Uncanny Dodge / Shield |
@@ -174,7 +174,7 @@
 | Dust of Disappearance | 1 use | Consumable | 10ft area, 2d4 min, doesn't break on attack |
 | Misty Step | 1 | Long Rest | 30ft BA teleport |
 | Detect Magic | 1 | Long Rest | No concentration (racial) |
-| Familiar | 1 | Permanent | Barn owl (fey). Help = advantage. Flyby. Re-summon costs 1 hour + 10gp |
+| Belfry (familiar) | 1 | Permanent | Barn owl (fey). Help = advantage. Flyby. Re-summon costs 1 hour + 10gp |
 | Scrolls | 9 | Consumable | See [inventory](abilities.md#current-scroll-inventory-10). Combat-ready: Blink, Invisibility, Confusion, Protection from Poison |
 
 ---

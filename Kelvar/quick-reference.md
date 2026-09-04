@@ -29,7 +29,7 @@
 
 ## My Turn
 
-### Owl (acts on its own initiative)
+### Belfry — owl familiar (own initiative)
 
 - **Help** next to my target → **advantage on my attack** → Sneak Attack
 - **Flyby** — leaves melee without an opportunity attack
@@ -118,7 +118,7 @@
 | Giant Ball Smasher | 1 | Liquor, not magical — social tool |
 | Misty Step | 1 | Long Rest |
 | Scrolls | 9 | Consumable |
-| Owl familiar | active | Permanent |
+| Belfry (owl) | active | Permanent |
 | Detect Magic | 1 | Long Rest |
 
 ---

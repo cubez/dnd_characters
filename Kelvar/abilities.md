@@ -240,13 +240,13 @@
 
 ## Familiar
 
-### The Barn Owl (Fey)
+### Belfry — Barn Owl (Fey)
 
 **Summoned** — scroll spent | Permanent until dropped to 0 HP or dismissed
 
 **Form:** Owl — a **barn owl**, white heart-shaped face, utterly silent in flight. **Spirit type:** Fey, fitting for a High Elf with Fey Ancestry.
 
-*Not a pet. An arrangement with something old that has agreed, for now, to wear the shape of an owl.*
+*Not a pet. An arrangement with something old that has agreed, for now, to wear the shape of an owl. Named for the tower it sounds like it came out of.*
 
 **What makes the owl the right pick:**
 
