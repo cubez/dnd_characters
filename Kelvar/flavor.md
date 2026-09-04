@@ -67,6 +67,8 @@
 - Steal or plant things unnoticed — Sleight of Hand +14, minimum 24
 - Identify magical items/effects in play — Arcana +15, Detect Magic
 
+**The bottle:** I carry a **Giant Ball Smasher** — fermented fruit liquor from the giant lands, 75% alcohol, 15gp. It is not magic and it is not for me. It is a gift, a bribe, and a lever: the fastest way to make a suspicious person talkative. My CON save is only **+2**, so I pour, I toast, and I let the other person swallow.
+
 **What I shouldn't do:**
 - Get into a shouting match (CHA 12 isn't commanding)
 - Pretend to be a simple, honest person (I radiate "I'm smarter than you")
@@ -86,6 +88,7 @@
 | Need information about magic | Arcana +15 — I probably know more than the wizard does |
 | Identify a magic item | Arcana +15, Detect Magic (no concentration) |
 | Need a distraction | Minor Illusion, Prestidigitation, or Charlatan's Dice |
+| Need to loosen someone's tongue | **Giant Ball Smasher** — fermented giant-lands fruit liquor, 75% alcohol. Pour generously, drink sparingly |
 | Everything has gone wrong | Dust of Disappearance, Misty Step, Invisibility — I vanish |
 
 ---

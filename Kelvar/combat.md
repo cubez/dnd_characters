@@ -170,7 +170,6 @@
 | Lucky Points | 3 | Long Rest | Advantage/disadvantage on any d20 |
 | Ring of Spell Storing | 5 levels | Reload from caster | Shield (1), Absorb Elements (1), Invisibility (2), Feather Fall (1) |
 | Dust of Disappearance | 1 use | Consumable | 10ft area, 2d4 min, doesn't break on attack |
-| Giant Ball Smasher | 1 use | Consumable | Homebrew potion, 15gp. Effect not yet recorded — ask the DM |
 | Misty Step | 1 | Long Rest | 30ft BA teleport |
 | Detect Magic | 1 | Long Rest | No concentration (racial) |
 | Scrolls | varies | Consumable | Check inventory before combat! |

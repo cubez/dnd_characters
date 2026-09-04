@@ -109,7 +109,7 @@
 | Ring: Invisibility | 1 charge | Reload |
 | Ring: Feather Fall | 1 charge | Reload |
 | Dust of Disappearance | 1 | Consumable |
-| Giant Ball Smasher | 1 | Consumable — effect TBD |
+| Giant Ball Smasher | 1 | Liquor, not magical — social tool |
 | Misty Step | 1 | Long Rest |
 | Detect Magic | 1 | Long Rest |
 
